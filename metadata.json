@@ -1,0 +1,6 @@
+{
+  "name": "Asistente de Recetas",
+  "description": "Asistente virtual especializado en responder consultas basándose de manera exclusiva y estricta en la documentación de recetas proporcionada.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
